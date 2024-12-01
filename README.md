@@ -1,6 +1,6 @@
 # U-Net: Semantic Segmentation for Seagrass
 
-Fined tune the U-Net for Seagrass Semantic Segmentation.
+Fine tune the U-Net for Seagrass Semantic Segmentation.
 
 ## Quick start
 
