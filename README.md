@@ -2,6 +2,11 @@
 
 Fine tune the U-Net for Seagrass Semantic Segmentation.
 
+<p align="center">
+<img src="plots/overlapped_image_out_A0288.png "center" width="75%"/>
+</p>
+
+
 ## Quick start
 
 1. [Install CUDA](https://developer.nvidia.com/cuda-downloads)
